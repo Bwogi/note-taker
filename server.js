@@ -4,7 +4,8 @@ const express = require("express");
 const PORT = process.env.PORT || 3001;
 const app = express();
 
-// Sets up the Express app to handle data parsing
+/* middle ware for encoding urls, turning them to 
+json and also making everything in the public folder accessible */
 app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
 app.use(express.static("public"));

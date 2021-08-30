@@ -7,8 +7,7 @@
   </p>
 
   ## Description
-  
-  
+
  
   ## Table of Contents 
   * [Description](#description)
@@ -29,8 +28,8 @@
   
   ## Screenshot
    ![Screenshot](./screenshot.png)
-  ## Walkthrough
-  [![Youtube](https://img.youtube.com/vi/d2LD42Bx5Pk/0.jpg)](https://youtu.be/d2LD42Bx5Pk)
+  ## Deployed Application
+  https://bwogi-note-taker.herokuapp.com
   ## Testing
     
   ## ProjectRepo 
