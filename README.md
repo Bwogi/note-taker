@@ -19,6 +19,8 @@
    ![Screenshot](./screenshot-note-taker.png)
   ## Demonstration
   [Note taker app demo on youtube](https://youtu.be/6NZCAKLmtKk)
+  ## Live site deployed on heroku
+  https://bwogi-note-taker.herokuapp.com/
   ## ProjectRepo 
   https://github.com/bwogi/note-taker
   ## Contributors
