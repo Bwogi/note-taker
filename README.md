@@ -7,31 +7,18 @@
   </p>
 
   ## Description
-
- 
-  ## Table of Contents 
-  * [Description](#description)
-  * [Usage](#usage)
-  * [License](#license)
-  * [Screenshot](#screenshot)
-  * [Walkthrough](#projectdemo)
-  * [Testing](#testing)
-  * [ProjectRepo](#projectrepo)
-  * [Contribution](#contribution)
-  
+  This is a fullstack application with a provided front end(starter code) for which i had to create a back end server and middleware for this application to be able to help a user take(create), save, update and delete a note or notes. I used Express.js framework and uniquid library for the unique ids for each note taken. This application helps users take notes whether in a meeting, school or wherever it is deemed necessary effortlessly by take, update read or even delete notes. 
   ##  Usage
-    
+  Go to the live site [here](https://bwogi-note-taker.herokuapp.com/) and then click on the 'get started' button. Follow the instructions ion the video [attached](https://youtu.be/6NZCAKLmtKk)
 
   ## License 
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)<br />
   This app is covered under MIT license.
   
   ## Screenshot
-   ![Screenshot](./screenshot.png)
-  ## Deployed Application
-  https://bwogi-note-taker.herokuapp.com
-  ## Testing
-    
+   ![Screenshot](./screenshot-note-taker.png)
+  ## Demonstration
+  [Note taker app demo on youtube](https://youtu.be/6NZCAKLmtKk)
   ## ProjectRepo 
   https://github.com/bwogi/note-taker
   ## Contributors
